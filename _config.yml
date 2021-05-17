@@ -2,14 +2,14 @@
 title:       Santosh Achary
 email:       asantoshka@outlook.com
 author:      Sntosh Achary
-description: "A personal blog by cybersecurity engineer."
+description: ""
 baseurl:     ""
 url:         "https://santoshachary.me"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - contact.html
- - resume.md
+ 
 
 # Google services
 google_verification:
@@ -49,14 +49,15 @@ facebook_comments_number: 10
 
 # Social icons
 github_username: asantoshka
-reddit_username:
+reddit_username: 
 bitbucket_username:
+insta_username: a_santosh_k_a
 stackoverflow_id:
 twitter_username: asantoshka
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: asantoshka
 angellist_username:
 medium_id:
 bitcoin_url:
